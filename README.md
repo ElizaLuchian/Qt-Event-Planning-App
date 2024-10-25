@@ -10,5 +10,5 @@ Key Features
 <li>GUI with Undo/Redo: A modern Qt-based interface, featuring a table view (QTableView), custom layouts, undo/redo functionality, and keyboard shortcuts for quick actions (Ctrl+Z, Ctrl+Y).</li>
 <li>Error Handling & Validation: Includes custom exceptions and entity validation with Validator classes to ensure data integrity.</li>
 <li>Data Visualization: Optional charts and graphical views of your tasks or events using QPainter or QCustomPlot for clear insights.</li>
-<li>Testing: Comprehensive testing with over 98% coverage for non-UI components ensures high reliability.</li>
+<li>Testing: Comprehensive testing with coverage for non-UI components ensures high reliability.</li>
 </ul>
